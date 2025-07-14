@@ -1,5 +1,13 @@
 # @hyperlane-xyz/registry
 
+## 19.3.0
+
+### Minor Changes
+
+- dfa6782: update paradex defaultISM
+- 4c95328: Update katana public RPC. Update default ISMs.
+- 2f45f38: Update superseed with CCTP rebalancing and add connections
+
 ## 19.2.0
 
 ### Minor Changes
